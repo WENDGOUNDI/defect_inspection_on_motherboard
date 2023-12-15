@@ -1,0 +1,1 @@
+# defect_inspection_on_motherboard
